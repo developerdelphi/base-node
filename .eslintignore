@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+database
+.husky
+.vscode
+vitest.alias.ts
+vite.config.ts
